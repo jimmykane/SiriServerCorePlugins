@@ -1,4 +1,8 @@
-This is a Git repo of all working plugins for SiriServerCore, List your plugins coded by you.
+This is a Git repo of all working plugins for SiriServerCore<BR>
+If you have a plugin to add, fork this repo and send us a pull request so we can get your plugin listed, the point of this is to get a full list of working plugins easy to download.
+<BR>
+
+
 <BR><BR>
 SNXRaven<HR>
 raven_Translate:<BR>
