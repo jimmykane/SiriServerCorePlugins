@@ -10,7 +10,7 @@ import os, random
 
 
 
-class catfacts(Plugin):
+class magic8ball(Plugin):
 
     @register("en-US",".*Magic 8 ball.*")
     def st_catfact(self, speech, language):
