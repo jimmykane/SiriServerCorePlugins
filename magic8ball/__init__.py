@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # magic8ball.py
+# Based off Catfacts :)
 #by Tristen Russ "Playfrog4u"
 
 from random import randint
@@ -13,7 +14,7 @@ import os, random
 class magic8ball(Plugin):
 
     @register("en-US",".*Magic 8 ball.*")
-    def st_catfact(self, speech, language):
+    def st_magic_8_ball(self, speech, language):
         if language == 'en-US':
             filename = "./plugins/magic8ball/magic8ball.txt"
             file = open(filename, 'r')
