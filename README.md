@@ -1,6 +1,6 @@
 This is a Git repo of all working plugins for SiriServerCore, List your plugins coded by you.
-<BR><BR><BR>
-SNXRaven<HR><BR>
+<BR><BR>
+SNXRaven<HR>
 raven_Translate:<BR>
 Description:<BR>
 Bing translator that allows you to translate 19 langagues from one to the other.<BR>
