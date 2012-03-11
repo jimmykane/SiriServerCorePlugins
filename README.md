@@ -1,6 +1,6 @@
 This is a Git repo of all working plugins for SiriServerCore<BR>
 If you have a plugin to add, fork this repo and send us a pull request so we can get your plugin listed, the point of this is to get a full list of working plugins easy to download.
-On pull request, make sure you add the description and any required modules that need to be instaled. 
+On pull request, make sure you add the description and any required modules that need to be installed. 
 <BR>
 
 
