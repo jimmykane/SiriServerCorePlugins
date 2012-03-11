@@ -24,3 +24,7 @@ No required modules. <BR>
 alarmplugin:<BR>
 Description: Added feature to say "wake me up at"<BR>
 No required modules. <BR>
+<BR>
+whereAmI:<BR>
+Description: Added WhereAmI fix. There was no mapObjects in SiriServerCore<BR>
+Requires mapObjects that is included in the siriObjects folder. <BR>
