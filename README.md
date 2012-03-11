@@ -15,3 +15,7 @@ Playfrog4u<HR>
 magic8ball:<BR>
 Description: A classic magic 8 ball fortune teller<BR>
 No required modules. <BR>
+<BR>
+alarmplugin:<BR>
+Description: Added feature to say "wake me up at"<BR>
+No required modules. <BR>
