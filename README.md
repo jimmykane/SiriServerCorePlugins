@@ -11,7 +11,7 @@ Description:<BR>
 Allows you to use a single GoogleVoice ID to send text messages from your GoogleVoice Number.<BR> 
 Requires pyGoogleVoice | http://code.google.com/p/pygooglevoice/<BR>
 <BR>
-Playfrog4u<HR><BR>
+Playfrog4u<HR>
 magic8ball:<BR>
 Description: A classic magic 8 ball fortune teller<BR>
 No required modules. <BR>
