@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 #author: AlphaBetaPhi <beta@alphabeta.ca>
-#editor: Playfrog4u <Playfrog4u@hotmai.com>
+#editor: Playfrog4u <Playfrog4u@hotmail.com>
 #todo: check for existing alarms, delete alarms, update alarms, add original commands aka wake me up/tomorrow morning/midnight/etc.
 #project: SiriServer
 #commands: set an alarm for HH:MM AM/PM
