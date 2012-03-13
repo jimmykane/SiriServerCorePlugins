@@ -8,6 +8,10 @@ from googlevoice import Voice
 from googlevoice.util import input
 import re
 
+
+gemail = APIKeyForAPI("googleemail")
+gpass = APIKeyForAPI("googlepass")
+
 class raven_voice(Plugin):
 
 
@@ -17,7 +21,7 @@ class raven_voice(Plugin):
         phoneNumber = match.group(1)
         text = match.group(2)
         voice = Voice()
-        voice.login('googleemail@gmail.com', 'googlepass')
+        voice.login(gemail, str(gpass))
         voice.send_sms(phoneNumber, text)
         self.say('Your message has been sent!')
         self.complete_request()
