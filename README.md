@@ -45,6 +45,11 @@ Description:<BR>
 Random GERMAN (only) Facts and Quotes<BR>
 Requires BeautifulSoup | http://www.crummy.com/software/BeautifulSoup/<BR>
 <BR>
+memebase:<BR>
+Description:<BR>
+Get the latest memes from Memebase!<BR>
+Requires BeautifulSoup | http://www.crummy.com/software/BeautifulSoup/<BR>
+<BR>
 yelpSearch by apexad:<BR>
 Description:<BR>
 my multilanguage ready (translated) version of yelpSerch for Stuff nearby you<BR>
