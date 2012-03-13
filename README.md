@@ -28,3 +28,20 @@ No required modules. <BR>
 whereAmI:<BR>
 Description: Added WhereAmI fix. There was no mapObjects in SiriServerCore<BR>
 Requires mapObjects that is included in the siriObjects folder. <BR>
+<BR>
+<a href="https://github.com/cytec">cytec</a><HR>
+SickbeardHistory:<BR>
+Description:<BR>
+Get your last 5 Downloaded Episodes from SickBeard (more to come)<BR>
+No required modules. <BR>
+<BR>
+twitterPlugin:<BR>
+Description:<BR>
+let Siri tweet for you! and get the last 5 tweets from your Timeline<BR> 
+Requires python-twitter | http://code.google.com/p/python-twitter/<BR>
+<BR>
+wissen:<BR>
+Description:<BR>
+Random GERMAN (only) Facts and Quotes<BR>
+Requires BeautifulSoup | http://www.crummy.com/software/BeautifulSoup/<BR>
+<BR>
