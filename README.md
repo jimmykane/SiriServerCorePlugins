@@ -54,3 +54,8 @@ yelpSearch by apexad:<BR>
 Description:<BR>
 my multilanguage ready (translated) version of yelpSerch for Stuff nearby you<BR>
 No required modules. <BR>
+<BR>
+<a href="https://github.com/jimmykane">Jimmy Kane</a><HR>
+Horoscope edited by Jimmy Kane, created by Erich Budianto:<BR>
+Description: Get the horoscope for all know Zodiacs<BR>
+No required modules. <BR>
