@@ -10,6 +10,9 @@ from plugin import *
 
 class urbandictionary(Plugin):
     
+    # List of help phrases used by the helpPlugin
+    helpPhrases_enUS = ['Urban dictionary <something>', 'Example: Urban dictionary banana']
+
     @register("en-US", ".*Urban.*dictionary.* [a-zA-Z0-9]+")
     def sn_dictionary(self, speech, language):
         if language == 'en-US':
@@ -27,3 +30,8 @@ class urbandictionary(Plugin):
         self.say(word + ': ' + definition)
         self.say('For example: ' + example)
         self.complete_request()
+
+    # Method used by the help plugin to retrieve a list of usable commands
+    def getHelp(self, language):
+        if language == 'en-US':
+            return self.helpPhrases_enUS
