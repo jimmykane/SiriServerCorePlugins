@@ -16,6 +16,11 @@ Description:<BR>
 Allows you to use a single GoogleVoice ID to send text messages from your GoogleVoice Number.<BR> 
 Requires pyGoogleVoice | http://code.google.com/p/pygooglevoice/<BR>
 <BR>
+raven_urbandictionary:<BR>
+Description:<BR>
+Looks up words on Urban Dictionary and gives you deffinition and examples<BR> 
+No Required Modules.<BR>
+<BR>
 <a href="https://github.com/Playfrog4u">Playfrog4u</a><HR>
 magic8ball:<BR>
 Description: A classic magic 8 ball fortune teller<BR>
