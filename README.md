@@ -16,6 +16,11 @@ Description:<BR>
 Allows you to use a single GoogleVoice ID to send text messages from your GoogleVoice Number.<BR> 
 Requires pyGoogleVoice | http://code.google.com/p/pygooglevoice/<BR>
 <BR>
+raven_urbandictionary:<BR>
+Description:<BR>
+Looks up words on Urban Dictionary and gives you deffinition and examples<BR> 
+No Required Modules.<BR>
+<BR>
 <a href="https://github.com/Playfrog4u">Playfrog4u</a><HR>
 magic8ball:<BR>
 Description: A classic magic 8 ball fortune teller<BR>
@@ -53,4 +58,9 @@ Requires BeautifulSoup | http://www.crummy.com/software/BeautifulSoup/<BR>
 yelpSearch by apexad:<BR>
 Description:<BR>
 my multilanguage ready (translated) version of yelpSerch for Stuff nearby you<BR>
+No required modules. <BR>
+<BR>
+<a href="https://github.com/jimmykane">Jimmy Kane</a><HR>
+Horoscope edited by Jimmy Kane, created by Erich Budianto:<BR>
+Description: Get the horoscope for all know Zodiacs<BR>
 No required modules. <BR>
