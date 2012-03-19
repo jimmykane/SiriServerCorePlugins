@@ -1,1 +1,36 @@
+#  User Related   #
+######################
+.settings
+database.sqlite3
+apiKeys.conf
+plugins.conf
+ca.pem
+server.crt
+server.key
+
+#  Compiled source   #
+######################
+*.py[co]
+
+#  IDE specific      #
+######################
+*.bak
+*.tmp
+*.wpr
+*.project
+*.pydevproject
+*.cproject
+*.tmproj
+*.tmproject
+*.sw?
+
+# OS generated files #
+######################
+.Spotlight-V100
+.Trashes
 .DS_Store
+desktop.ini
+ehthumbs.db
+Thumbs.db
+.directory
+*~
