@@ -15,9 +15,9 @@ gpass = APIKeyForAPI("googlepass")
 class raven_voice(Plugin):
 
 
-    @register("en-US", "(Send.*text.*message to [a-zA-Z0-9]+)")
+    @register("en-US", "(Message [a-zA-Z0-9]+)")
     def r_gvsms(self, speech, language):
-        match = re.match(u"Send text message to (.*\d.*) say (.*\D.*)", speech, re.IGNORECASE)
+        match = re.match(u"Message (.*\d.*) say (.*\D.*)", speech, re.IGNORECASE)
         phoneNumber = match.group(1)
         text = match.group(2)
         voice = Voice()
