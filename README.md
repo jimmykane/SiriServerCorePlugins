@@ -5,6 +5,12 @@ On pull request, make sure you add the description and any required modules that
 
 
 <BR><BR>
+<a href="https://github.com/FreeManRepo">FreeManRepo</a><HR>
+WhoAmI:<BR>
+Description:<BR>
+Original code by Javik, Edited by FreeManRepo with a fixed typo.<BR>
+No Required Modules.<BR>
+<BR>
 <a href="https://github.com/snxraven">SNXRaven</a><HR>
 raven_Translate:<BR>
 Description:<BR>
