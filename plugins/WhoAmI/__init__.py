@@ -15,7 +15,7 @@ from siriObjects.contactObjects import *
 
 class meCard(Plugin):
 	
-    @register("en-US", "(Who am I.*)|(What's my name.*)")
+	@register("en-US", "(Who am I.*)|(What's my name.*)")
 	def mePerson(self, speech, language):
 		
 		self.say("You're {0}, that's what you told me. anyway.".format(self.user_name()))		
